@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "tweets": [],
+  "friends": [
+    {
+      "$oid": "614744c5fc56a85834675e84"
+    },
+    {
+      "$oid": "614744a0fc56a85834675e7d"
+    }
+  ],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Priyank",
+  "email": "test@test.com",
+  "createdAt": {
+    "$date": "2021-09-18T10:36:57.533Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T16:14:34.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6145cdd492225b5dfb1d7fa7"
+  },
+  "tweets": [],
+  "friends": [
+    {
+      "$oid": "6145c14941daa913e4b407db"
+    }
+  ],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Baby Yoda",
+  "email": "test1@test.com",
+  "createdAt": {
+    "$date": "2021-09-18T10:36:57.533Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T12:45:31.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614646071f378d0a00de64c6"
+  },
+  "tweets": [],
+  "friends": [],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Yarael Poof",
+  "email": "heypriyaank@gmail.com",
+  "createdAt": {
+    "$date": "2021-09-18T20:03:19.055Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-18T20:03:19.055Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614700141f378d0a00de64cd"
+  },
+  "tweets": [],
+  "friends": [],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Luke Skywalker",
+  "email": "new@new.co",
+  "createdAt": {
+    "$date": "2021-09-19T09:17:08.973Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T09:17:08.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61474485fc56a85834675e76"
+  },
+  "tweets": [],
+  "friends": [],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Lobot",
+  "email": "thisisatestuser@nothing.com",
+  "createdAt": {
+    "$date": "2021-09-19T14:09:09.470Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:09:09.470Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614744a0fc56a85834675e7d"
+  },
+  "tweets": [],
+  "friends": [],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "Cordé",
+  "email": "newone@thetest.com",
+  "createdAt": {
+    "$date": "2021-09-19T14:09:36.393Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:09:36.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614744c5fc56a85834675e84"
+  },
+  "tweets": [],
+  "friends": [
+    {
+      "$oid": "614744a0fc56a85834675e7d"
+    },
+    {
+      "$oid": "614700141f378d0a00de64cd"
+    },
+    {
+      "$oid": "6145c14941daa913e4b407db"
+    }
+  ],
+  "isDeleted": false,
+  "__t": "user",
+  "name": "C-3PO",
+  "email": "tester123@test.com",
+  "createdAt": {
+    "$date": "2021-09-19T14:10:13.809Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:23:08.597Z"
+  },
+  "__v": 0
+}]

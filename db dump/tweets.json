@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "6147287ac78c9f3b10fc8f5b"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "Hey from my first tweet !!!!",
+  "createdAt": {
+    "$date": "2021-09-19T12:09:30.318Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T12:09:30.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61472f9d89f7b05ca419667b"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "This is my second tweet, test test testt",
+  "createdAt": {
+    "$date": "2021-09-19T12:39:57.443Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T12:39:57.443Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6147308c89f7b05ca419668a"
+  },
+  "author": {
+    "$oid": "6145cdd492225b5dfb1d7fa7"
+  },
+  "content": "HEY FROM YODA!",
+  "createdAt": {
+    "$date": "2021-09-19T12:43:56.392Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T12:43:56.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614743a7b0b94c39f8c1a3e9"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "react memo test",
+  "createdAt": {
+    "$date": "2021-09-19T14:05:27.164Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:05:27.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614743e6b0b94c39f8c1a3f2"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG TEXT TEST LONG ",
+  "createdAt": {
+    "$date": "2021-09-19T14:06:30.756Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:06:30.756Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61474405b0b94c39f8c1a401"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "Tweet testing",
+  "createdAt": {
+    "$date": "2021-09-19T14:07:01.687Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:07:01.687Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61474592fc56a85834675e8f"
+  },
+  "author": {
+    "$oid": "614744c5fc56a85834675e84"
+  },
+  "content": "Hey, testing tweets",
+  "createdAt": {
+    "$date": "2021-09-19T14:13:38.338Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:13:38.338Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614747f4fc56a85834675ee6"
+  },
+  "author": {
+    "$oid": "614744c5fc56a85834675e84"
+  },
+  "content": "testing out friends follow/unfollow",
+  "createdAt": {
+    "$date": "2021-09-19T14:23:48.571Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T14:23:48.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614752f61920a2000438e3e0"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "Hello",
+  "createdAt": {
+    "$date": "2021-09-19T15:10:46.437Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T15:10:46.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61475de01920a2000438e614"
+  },
+  "author": {
+    "$oid": "6145c14941daa913e4b407db"
+  },
+  "content": "Test ",
+  "createdAt": {
+    "$date": "2021-09-19T15:57:20.773Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-19T15:57:20.773Z"
+  },
+  "__v": 0
+}]
