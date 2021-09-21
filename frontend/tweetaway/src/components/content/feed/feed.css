@@ -8,7 +8,6 @@
   height: 25vh;
   background-color: #ffffff;
   border-radius: 20px;
-  
 }
 
 .profilePicture__and__input {
@@ -63,8 +62,19 @@
   margin-bottom: 3vh;
   display: flex;
   flex-direction: column;
+  word-wrap: break-word;
+}
+
+.feed h2 {
+  width: 100%;
+  word-wrap: break-word;
 }
 
 .feeds__parent #avatar {
   margin-bottom: -1.8vh;
 }
+
+/* .feed__container {
+  width: 100%;
+  
+} */
