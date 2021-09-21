@@ -1,0 +1,70 @@
+.feedAndTweet__parent {
+  height: auto;
+  width: 90vh;
+}
+
+.tweet__parent {
+  width: 100%;
+  height: 25vh;
+  background-color: #ffffff;
+  border-radius: 20px;
+  
+}
+
+.profilePicture__and__input {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  align-items: center;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  padding-top: 2vh;
+}
+
+.profilePicture__and__input input {
+  width: 80%;
+  border: 0px;
+  outline: none;
+}
+
+.tweet__button {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.tweet__button button {
+  margin-right: 4vh;
+  margin-bottom: 4vh;
+  border-radius: 30px;
+  background-color: #50abf1;
+  border: 0px;
+  width: 15%;
+  height: 6vh;
+  font-size: large;
+}
+.tweet__button button:disabled {
+  background-color: rgb(92, 92, 92);
+}
+
+.feeds__parent {
+  width: 100%;
+  height: auto;
+  margin-top: 6vh;
+}
+
+.feeds__parent .feed {
+  height: auto;
+  background-color: white;
+  border-radius: 20px;
+  padding: 3vh;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 3vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.feeds__parent #avatar {
+  margin-bottom: -1.8vh;
+}

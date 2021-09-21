@@ -1,0 +1,53 @@
+.friends__bar__parent {
+    margin: 8vh;
+    margin-top: 0;
+    width: 45vh;
+    height: auto;
+    text-align: center;
+  }
+  
+  .friends__bar {
+    background-color: white;
+    border-radius: 20px;
+    height: auto;
+    padding: 2vh;
+  }
+  
+  .friends__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 1vh;
+    margin-left: 3vh;
+  }
+  .avatarAnd__name {
+    display: flex;
+    justify-content: center;
+    /* margin-left: 4vh; */
+    align-items: center;
+  }
+  
+  .name__and__follow__button {
+    margin: 1vh;
+  }
+  
+  .friends__container span {
+    font-size: medium;
+    margin-left: 2vh;
+  }
+  
+  .friends__container button {
+    margin-left: 24vh;
+    width: 10vh;
+    justify-content: left;
+    background-color: #50abf1;
+    border: 0px;
+  }
+  
+  hr.rounded {
+    border-top: 8px solid #dbe1e8;
+    border-radius: 5px;
+    margin: 1vh;
+  }
+  
